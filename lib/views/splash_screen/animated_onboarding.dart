@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'package:concentric_transition/concentric_transition.dart';
 //
 import '../../consts/consts.dart';
-import '../../model/intod_model.dart';
+import '../../model/introduction_model.dart';
 import '../auth_screen/login_screen.dart';
 
 class AnimatedOnboard extends StatefulWidget {
